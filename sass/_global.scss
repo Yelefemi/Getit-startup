@@ -1,0 +1,20 @@
+// @import url('https://fonts.googleapis.com/css2?family=Bellefair&family=Lobster&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+// Color
+$pryColor : #ffffff;
+$secColor : #000000;
+$terColor : #2211AB;
+
+// myFonts 
+$Fonts : Roboto;
+$FontsizeH1 :60px;
+$FontsizeH2 :50px;
+$FontsizeH3 :40px;
+$FontsizeH4 :30px;
+$FontsizeH5 :20px;
+$FontsizeH6 :10px;
+$HeroFontFamily : 'Lobster', cursive;
+
+li a{
+    color:$pryColor;
+}
